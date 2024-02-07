@@ -55,7 +55,7 @@
 
 
 ### Profile Stats*:
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row ;width:100%">
 <img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/>
 <img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/>
    
