@@ -30,6 +30,13 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+### Tools
+
+<div style="display:flex;flex-direction:row">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</div>
 ### Styling
 
 <div style="display:flex;flex-direction:row">
@@ -38,12 +45,7 @@
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-### Tools
 
-<div style="display:flex;flex-direction:row">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</div>
 
 
 
@@ -59,3 +61,6 @@
         <td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     </tr>
 </table>
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humdumkashyap&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humdumkashyap&theme=nord_dark)
