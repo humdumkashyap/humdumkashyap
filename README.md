@@ -48,13 +48,6 @@
 </div>
 
 
-### Top Languages Used:
-<div style="display:flex;flex-direction:row">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humdumkashyap&theme=dark&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humdumkashyap&theme=dark&hide_border=true" />
-</div>
-
-
 ### Profile Stats:
   <table align='center'>
     <tr>
