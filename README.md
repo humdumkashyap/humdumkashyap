@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vievk Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kashyap</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /></p>
