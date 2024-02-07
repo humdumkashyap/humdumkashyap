@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vievk Kashyap</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /></p>
 
 
 - 👨‍💻 currently i am working on **100 Days 100 DSA Questions**
 
 - 💬 Ask me about **javascript, react, next js**
+
+- 👯 I’m looking to collaborate on **React and Next Js Open Source projects**
+
 
 ### Skills
 
