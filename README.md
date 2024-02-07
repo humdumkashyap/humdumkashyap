@@ -60,6 +60,10 @@
         <td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
         <td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     </tr>
+    <tr>
+        <td align='center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humdumkashyap&theme=dark&hide_border=true" /></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humdumkashyap&theme=dark&hide_border=true" /></td>
+    </tr>
 </table>
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humdumkashyap&theme=nord_dark)
