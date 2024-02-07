@@ -53,7 +53,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humdumkashyap&theme=dark&hide_border=true" />
 </div>
 
-
 ### Profile Stats:
   <table align='center'>
     <tr>
@@ -61,3 +60,14 @@
 <td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     </tr>
   </table>
+
+
+  ## 📈Stats:
+<p align="center"> 
+  <img width="48%" src="https://leetcard.jacoblin.cool/humdumkashyap?theme=dark&font=Karma&ext=contest" alt="Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=humdumkashyap&theme=dark" alt="Stats" />
+</p>
+<p align="center"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=humdumkashyap&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="humdumkashyap" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=humdumkashyap&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />  
+</p>
