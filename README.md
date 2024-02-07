@@ -60,9 +60,9 @@
   </table>
 
 
-
-<div style="display:flex;flex-direction:row"> 
-  <img  src="https://leetcard.jacoblin.cool/humdumkashyap?theme=dark&font=Karma&ext=contest" alt="Stats"/>
+ ### Leetcode:
+<div > 
+  <img width="48%" src="https://leetcard.jacoblin.cool/humdumkashyap?theme=dark&font=Karma&ext=contest" alt="Stats"/>
 </div>
    
 
