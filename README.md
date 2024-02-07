@@ -59,7 +59,7 @@
 
  ### Top Languages Used:
 <div style="display:flex;flex-direction:row">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=humdumkashyap&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="humdumkashyap" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=humdumkashyap&show_icons=true&bg_color=dark&title_color=fff&text_color=fff&locale=en&layout=compact" alt="humdumkashyap" />
 
  ### Leetcode:
 <div > 
