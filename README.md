@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /></p>
 
+### 📈Profile Stats:
+  <table align='center'>
+    <tr>
+<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
+<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
+    </tr>
+  </table>
+
+
+
 
 - 👨‍💻 currently i am working on **100 Days 100 DSA Questions**
 
@@ -50,15 +60,6 @@
  ### Top Languages Used:
 <div style="display:flex;flex-direction:row">
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=humdumkashyap&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="humdumkashyap" />
-
-### 📈Profile Stats:
-  <table align='center'>
-    <tr>
-<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
-    </tr>
-  </table>
-
 
  ### Leetcode:
 <div > 
