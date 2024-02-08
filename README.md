@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /></p>
 
-### 📈Profile Stats:
-  <table align='center'>
-    <tr>
-<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
-    </tr>
-  </table>
 
 
 
@@ -56,6 +49,15 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
+
+### 📈Profile Stats:
+  <table align='center'>
+    <tr>
+<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
+<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
+    </tr>
+  </table>
+
 
  ### Top Languages Used:
 <div style="display:flex;flex-direction:row">
