@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Kashyap</h1>
-<h3 align="center">A passionate frontend developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Hi+👋+I+'m+Vivek+Kashyap+A+passionate+frontend+developer)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humdumkashyap&label=Profile%20views&color=1dc95f&style=flat-square" alt="vivek-kashyap" /></p>
 
