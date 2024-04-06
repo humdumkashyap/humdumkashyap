@@ -64,4 +64,3 @@
   <img width="48%" src="https://leetcard.jacoblin.cool/humdumkashyap?theme=dark&font=Karma&ext=contest" alt="Stats"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/{humdumkashyap}/{humdumkashyap}/output/github-contribution-grid-snake-dark.svg)
