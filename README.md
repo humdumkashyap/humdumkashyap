@@ -68,4 +68,4 @@
  </br>
 </br>
  
-![Snake animation](https://raw.githubusercontent.com/humdumkashyap/humdumkashyap/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/humdumkashyap/humdumkashyap/output/github-contribution-grid-snake.svg)
